@@ -3,10 +3,10 @@ package jon.deleteagain;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class DeleteAgainApplicationTests {
 
-    @Test
+//    @Test
     void contextLoads() {
     }
 
